@@ -1,25 +1,32 @@
-# pubhub
 <h1>PubHub App</h1>
 
 <b>Pre-requisites</b>
-https://evothings.com/doc/build/cordova-install-osx.html
-npm install
-npm install -g grunt-cli
-npm install -g cordova
-gem install sass
+<ul>
+	<li><code>https://evothings.com/doc/build/cordova-install-osx.html</code></li>
+	<li><code>npm install</code></li>
+	<li><code>npm install -g grunt-cli</code></li>
+	<li><code>npm install -g cordova</code></li>
+	<li><code>gem install sass</code></li>
+</ul>
 
 <b>Setup</b>
-git clone git@github.com:smarkey/pubhub.git
-cd pubhub
-grunt watch:build (change a js file to compile the css)
+<ul>
+	<li><code>git clone git@github.com:smarkey/pubhub.git</code></li>
+	<li><code>cd pubhub</code></li>
+	<li><code>grunt watch:build</code> (change a js file to compile the css)</li>
+</ul>
 
 <b>Deploy</b>
-cd pubhub/phonegap
-phonegap build android
-phonegap run android
-phonegap serve
+<ul>
+	<li><code>cd pubhub/phonegap</code></li>
+	<li><code>phonegap build android</code></li>
+	<li><code>phonegap run android</code></li>
+	<li><code>phonegap serve</code></li>
+</ul>
 
 <b>Access</b>
-Download the "Phonegap Developer" App from Google Marketplace
-Input the ip:port that phonegap is listening on
-Connect
+<ul>
+	<li>Download the "Phonegap Developer" App from Google Marketplace</li>
+	<li>Input the ip:port that phonegap is listening on</li>
+	<li>Connect</li>
+</ul>
