@@ -2,7 +2,7 @@
 
 <b>Pre-requisites</b>
 <ul>
-	<li><code>https://evothings.com/doc/build/cordova-install-osx.html</code></li>
+	<li><<a href="https://evothings.com/doc/build/cordova-install-osx.html">Installation Instructions for OSX</a></code></li>
 	<li><code>npm install</code></li>
 	<li><code>npm install -g grunt-cli</code></li>
 	<li><code>npm install -g cordova</code></li>
